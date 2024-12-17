@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LabWorkOS",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "library1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-library1-Debug-8e0d2f807dc3c9b20dde.json",
+					"name" : "library1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "library2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-library2-Debug-e0795bf57add5e463e2c.json",
+					"name" : "library2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "program1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-program1-Debug-82b645ac4101fbcb9aba.json",
+					"name" : "program1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "program2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-program2-Debug-4e95cd9d000df9d0b797.json",
+					"name" : "program2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Xiaomi/Desktop/ll4/build",
+		"source" : "C:/Users/Xiaomi/Desktop/ll4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

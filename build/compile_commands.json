@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/Xiaomi/Desktop/ll4/build",
+  "command": "C:/Users/Xiaomi/bin/c++.exe -Dlibrary1_EXPORTS  -g -std=gnu++17 -o CMakeFiles/library1.dir/library1.cpp.obj -c C:/Users/Xiaomi/Desktop/ll4/library1.cpp",
+  "file": "C:/Users/Xiaomi/Desktop/ll4/library1.cpp",
+  "output": "CMakeFiles/library1.dir/library1.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/ll4/build",
+  "command": "C:/Users/Xiaomi/bin/c++.exe -Dlibrary2_EXPORTS  -g -std=gnu++17 -o CMakeFiles/library2.dir/library2.cpp.obj -c C:/Users/Xiaomi/Desktop/ll4/library2.cpp",
+  "file": "C:/Users/Xiaomi/Desktop/ll4/library2.cpp",
+  "output": "CMakeFiles/library2.dir/library2.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/ll4/build",
+  "command": "C:/Users/Xiaomi/bin/c++.exe  @CMakeFiles/program1.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/program1.dir/program1.cpp.obj -c C:/Users/Xiaomi/Desktop/ll4/program1.cpp",
+  "file": "C:/Users/Xiaomi/Desktop/ll4/program1.cpp",
+  "output": "CMakeFiles/program1.dir/program1.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/ll4/build",
+  "command": "C:/Users/Xiaomi/bin/c++.exe   -g -std=gnu++17 -o CMakeFiles/program2.dir/program2.cpp.obj -c C:/Users/Xiaomi/Desktop/ll4/program2.cpp",
+  "file": "C:/Users/Xiaomi/Desktop/ll4/program2.cpp",
+  "output": "CMakeFiles/program2.dir/program2.cpp.obj"
+}
+]
